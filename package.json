@@ -1,5 +1,5 @@
 {
-  "name": "osi4kjb-optimizer-types",
+  "name": "@fastacdn/osi4kjb-optimizer-types",
   "version": "0.1.0",
   "description": "",
   "main": "./src/index.js",
