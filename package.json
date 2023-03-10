@@ -1,9 +1,8 @@
 {
   "name": "@fastacdn/osi4kjb-optimizer-types",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "types": "index.d.ts",
   "scripts": {
     "build": "tsc"
   },
