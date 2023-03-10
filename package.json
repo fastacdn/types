@@ -1,6 +1,6 @@
 {
   "name": "@fastacdn/osi4kjb-optimizer-types",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "",
   "types": "index.d.ts",
   "scripts": {
