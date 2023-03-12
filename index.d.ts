@@ -1,10 +1,10 @@
 export interface fastaKjb {
-    browserURL: URL;
-    mykajabiURL: URL;
-    content: Response | Promise<Response>;
+    browserURL?: URL;
+    mykajabiURL?: URL;
+    content?: Response | Promise<Response>;
     [key: string]: any;
 }
 export interface fastaVariables {
-    fastaKjb: fastaKjb;
+    fastaKjb?: fastaKjb;
     [key: string]: any;
 }
