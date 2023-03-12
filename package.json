@@ -1,6 +1,6 @@
 {
   "name": "@fastacdn/types",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Types for FastaCDN middleware development.",
   "types": "index.d.ts",
   "scripts": {
