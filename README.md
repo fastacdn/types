@@ -1,2 +1,2 @@
-# osi4kjb-optimizer-types
+# @fastacdn/types
 Types for middleware development.
